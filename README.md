@@ -1,2 +1,3 @@
-# jewellery-pos-system
-Laravel-based POS system for Diamond &amp; Jewellery business
+# Jewellery POS System
+
+A basic Laravel-based POS for jewellery store.
